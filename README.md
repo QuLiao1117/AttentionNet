@@ -11,9 +11,9 @@ AttentionNet is an new image classification architecture designed by Liao Qu.
 
 Below is the designed Attention-ResNet Block and the structure of AttentionNet.
 
-![image-20210610110606368](https://github.com/QuLiao1117/AttentionNet/)
+![image-attention-resnet-block](https://github.com/QuLiao1117/AttentionNet/blob/master/img/Attention-ResNet-Block.png)
 
-![image-20210610110721643](https://github.com/QuLiao1117/AttentionNet/)
+![image-attentionnet](https://github.com/QuLiao1117/AttentionNet/blob/master/img/AttentionNet.png)
 
 ## Training
 
