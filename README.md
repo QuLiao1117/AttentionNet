@@ -16,3 +16,6 @@ python main.py --lr=0.003
 python main.py --resume --lr=0.003
 ```
 
+## Visualization
+
+After the begin of training a model, the project will automatically generate an events file in `/runs`. By using `tensorboard --logdir=./` you can visualize the training process and compare    different models.
