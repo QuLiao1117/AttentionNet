@@ -7,7 +7,16 @@ AttentionNet is an new image classification architecture designed by Liao Qu.
 - PyTorch 1.0+
 - vit_pytorch 0.19.4
 
+## About
+
+Below is the designed Attention-ResNet Block and the structure of AttentionNet.
+
+![image-20210610110606368](https://github.com/QuLiao1117/AttentionNet/)
+
+![image-20210610110721643](https://github.com/QuLiao1117/AttentionNet/)
+
 ## Training
+
 ```
 # Start training with: 
 python main.py --lr=0.003
